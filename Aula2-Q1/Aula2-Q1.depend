@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682265087 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula2-q1\src\coordenada.cpp
+	"Coordenada.h"
+	<math.h>
+
+1682264505 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula2-q1\include\coordenada.h
+
+1682264689 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula2-q1\main.cpp
+	<iostream>
+	<locale>
+	"Coordenada.h"
+
