@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1683489896 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q2\main.cpp
+	<iostream>
+	<locale>
+	"Jogo.h"
+	"Jogador.h"
+
+1683486443 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q2\src\dado.cpp
+	"Dado.h"
+	<stdlib.h>
+	<time.h>
+
+1682354182 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q2\include\dado.h
+
+1682354496 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q2\src\jogador.cpp
+	"Jogador.h"
+
+1683490205 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q2\include\jogador.h
+	<string>
+
+1683490181 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q2\src\jogo.cpp
+	"Jogo.h"
+	<iostream>
+	<iomanip>
+
+1683490191 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q2\include\jogo.h
+	<vector>
+	"Jogador.h"
+	"Dado.h"
+

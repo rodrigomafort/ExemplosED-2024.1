@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1682352618 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q1\main.cpp
+	<iostream>
+	<locale>
+	"ListaSO.h"
+	"Elemento.h"
+
+1682270752 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q1\src\elemento.cpp
+	"Elemento.h"
+
+1682272097 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q1\include\elemento.h
+
+1682353113 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q1\src\listaso.cpp
+	"ListaSO.h"
+	<stdlib.h>
+	<iostream>
+	<exception>
+
+1683405228 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula3-q1\include\listaso.h
+	"Elemento.h"
+
