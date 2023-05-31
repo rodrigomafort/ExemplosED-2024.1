@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1685493109 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\src\filaencadeada.cpp
+	"FilaEncadeada.h"
+	<string>
+	<iostream>
+
+1685493016 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\src\listaencadeada.cpp
+	"ListaEncadeada.h"
+	<iostream>
+
+1685488437 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\include\listaencadeada.h
+	"Elemento.h"
+	"stdlib.h"
+
+1685493296 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\include\elemento.h
+	<iostream>
+
+1685493087 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\src\listaencadeadaordenada.cpp
+	"ListaEncadeadaOrdenada.h"
+	<iostream>
+
+1685493436 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\include\listaencadeadaordenada.h
+	"Elemento.h"
+
+1685493143 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\src\pilhaencadeada.cpp
+	"PilhaEncadeada.h"
+	<string>
+	<iostream>
+
+1685493440 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\include\pilhaencadeada.h
+	"Elemento.h"
+
+1685493406 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\src\elemento.cpp
+	"Elemento.h"
+
+1685491713 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\src\main.cpp
+	<iostream>
+	"Elemento.h"
+	"ListaEncadeada.h"
+	"ListaEncadeadaOrdenada.h"
+	"FilaEncadeada.h"
+	"FilaEncadeadaV2.h"
+	"PilhaEncadeada.h"
+
+1685493420 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\include\filaencadeada.h
+	"Elemento.h"
+
+1685493200 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\src\filaencadeadav2.cpp
+	"FilaEncadeadaV2.h"
+	<string>
+	<iostream>
+
+1685493428 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\aula4-listasencadeadas\include\filaencadeadav2.h
+	"Elemento.h"
+
