@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1685916089 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\exemploheranca\src\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1685917477 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\exemploheranca\include\pessoa.h
+	<string>
+	"Data.h"
+
+1685917501 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\exemploheranca\src\pessoa.cpp
+	"Pessoa.h"
+	<ctime>
+	<iostream>
+
+1685917437 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\exemploheranca\include\data.h
+
+1685917731 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\exemploheranca\src\data.cpp
+	"Data.h"
+
+1685918737 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\exemploheranca\src\paciente.cpp
+	"Paciente.h"
+
+1685918741 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\exemploheranca\include\paciente.h
+	"Pessoa.h"
+
