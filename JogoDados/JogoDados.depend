@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1710860543 source:c:\users\aluno\desktop\ed\jogodados\main.cpp
+	<iostream>
+	"JogoDados.h"
+
+1710859087 c:\users\aluno\desktop\ed\jogodados\include\dado.h
+
+1710859448 source:c:\users\aluno\desktop\ed\jogodados\src\dado.cpp
+	"Dado.h"
+	<cstdlib>
+	<ctime>
+
+1710860234 c:\users\aluno\desktop\ed\jogodados\include\jogodados.h
+	<vector>
+	"Dado.h"
+	"Jogador.h"
+
+1710860491 source:c:\users\aluno\desktop\ed\jogodados\src\jogodados.cpp
+	"JogoDados.h"
+	<iostream>
+
+1710859683 source:c:\users\aluno\desktop\ed\jogodados\src\jogador.cpp
+	"Jogador.h"
+
+1710860193 c:\users\aluno\desktop\ed\jogodados\include\jogador.h
+	<string>
+

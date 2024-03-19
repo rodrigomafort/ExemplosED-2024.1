@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1710891430 source:d:\exemplosed-2024.1\cofrinho\cofrinho\src\cofrinho.cpp
+	"Cofrinho.h"
+	<iostream>
+	<cmath>
+
+1710890340 d:\exemplosed-2024.1\cofrinho\cofrinho\include\cofrinho.h
+
+1710891430 source:d:\exemplosed-2024.1\cofrinho\cofrinho\src\main.cpp
+	<iostream>
+	"Cofrinho.h"
+
