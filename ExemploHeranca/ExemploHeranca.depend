@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1711476851 source:c:\users\aluno\desktop\ed\exemploheranca\main.cpp
+	<iostream>
+	"include/Pessoa.h"
+	"include/Medico.h"
+
+1711476460 source:c:\users\aluno\desktop\ed\exemploheranca\src\pessoa.cpp
+	"../include/Pessoa.h"
+	<iostream>
+
+1711476838 source:c:\users\aluno\desktop\ed\exemploheranca\src\medico.cpp
+	"../include/Medico.h"
+	<iostream>
+
+1711476761 c:\users\aluno\desktop\ed\exemploheranca\include\medico.h
+	"Pessoa.h"
+	<string>
+
+1711476911 c:\users\aluno\desktop\ed\exemploheranca\include\pessoa.h
+	<string>
+
