@@ -1,6 +1,9 @@
 #include "Quadrado.h"
 #include <iostream>
 
+using namespace std;
+
+
 Quadrado::Quadrado()
 {
     //ctor
@@ -13,5 +16,5 @@ Quadrado::~Quadrado()
 
 void Quadrado::Desenhar()
 {
-    std::cout << "Eu sou um quadrado" << std::endl;
+    cout << "Sou um quadrado" << endl;
 }

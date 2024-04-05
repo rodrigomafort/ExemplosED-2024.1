@@ -1,28 +1,29 @@
-#include <iostream>
-#include <vector>
 #include "Poligono.h"
 #include "Triangulo.h"
-#include "Circulo.h"
 #include "Quadrado.h"
+#include "TrianguloRetangulo.h"
+#include "Retangulo.h"
+
+#include <vector>
 
 using namespace std;
 
 int main()
 {
+    Triangulo t;
     Quadrado q;
-    q.Desenhar();
+    TrianguloRetangulo tr;
+    Retangulo r;
 
-    Circulo c;
-    c.Desenhar();
+    vector<Poligono*> poli;
+    poli.push_back(&t);
+    poli.push_back(&q);
+    poli.push_back(&tr);
+    poli.push_back(&r);
 
-    vector<Poligono*> vet;
-    vet.push_back(&q);
-    vet.push_back(&c);
+    for (int i = 0; i < poli.size(); i++)
+        poli[i]->Desenhar();
 
-    for (int i = 0; i < vet.size(); i++)
-        vet[i]->Desenhar();
 
     return 0;
-
 }
-

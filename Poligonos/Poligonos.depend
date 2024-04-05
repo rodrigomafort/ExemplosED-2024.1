@@ -1,35 +1,35 @@
 # depslib dependency file v1.0
-1687214193 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\src\circulo.cpp
-	"Circulo.h"
-	<iostream>
-
-1687214824 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\include\circulo.h
-	<Poligono.h>
-
-1687215001 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\include\poligono.h
-
-1687214996 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\src\poligono.cpp
+1712078934 source:c:\users\aluno\desktop\ed\poligonos\main.cpp
 	"Poligono.h"
-	<iostream>
-
-1687215179 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\src\quadrado.cpp
-	"Quadrado.h"
-	<iostream>
-
-1687215138 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\include\quadrado.h
-	<Poligono.h>
-
-1687212695 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\src\triangulo.cpp
 	"Triangulo.h"
-
-1687212695 c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\include\triangulo.h
-	<Poligono.h>
-
-1687215120 source:c:\users\rodrigo\onedrive\uerj\aulas\2023-1\aed\exemplosed-2023.1\poligonos\main.cpp
-	<iostream>
+	"Quadrado.h"
+	"TrianguloRetangulo.h"
 	<vector>
+
+1712079524 c:\users\aluno\desktop\ed\poligonos\include\poligono.h
+
+1712079268 c:\users\aluno\desktop\ed\poligonos\include\triangulo.h
+	<Poligono.h>
+
+1712079480 source:c:\users\aluno\desktop\ed\poligonos\src\poligono.cpp
 	"Poligono.h"
+	<iostream>
+
+1712078123 source:c:\users\aluno\desktop\ed\poligonos\src\triangulo.cpp
 	"Triangulo.h"
-	"Circulo.h"
+	<iostream>
+
+1712078707 c:\users\aluno\desktop\ed\poligonos\include\quadrado.h
+	<Poligono.h>
+
+1712078729 source:c:\users\aluno\desktop\ed\poligonos\src\quadrado.cpp
 	"Quadrado.h"
+	<iostream>
+
+1712079260 c:\users\aluno\desktop\ed\poligonos\include\trianguloretangulo.h
+	<Triangulo.h>
+
+1712078878 source:c:\users\aluno\desktop\ed\poligonos\src\trianguloretangulo.cpp
+	"TrianguloRetangulo.h"
+	<iostream>
 

@@ -1,41 +1,11 @@
 # depslib dependency file v1.0
-1710252354 source:c:\users\aluno\desktop\ed\coordenadas\src\main.cpp
+1710252354 source:c:\users\aluno\desktop\ed\coordenadas\main.cpp
 	<iostream>
 	"Coordenada.h"
 
 1710255083 c:\users\aluno\desktop\ed\coordenadas\include\coordenada.h
 
 1710255128 source:c:\users\aluno\desktop\ed\coordenadas\src\coordenada.cpp
-	"Coordenada.h"
-	<stdlib.h>
-	<math.h>
-
-1710512479 source:c:\users\rodrigo\desktop\ed\coordenadas\src\circulo.cpp
-	"Circulo.h"
-	<stdlib.h>
-	<math.h>
-
-1710512475 c:\users\rodrigo\desktop\ed\coordenadas\include\circulo.h
-	"Coordenada.h"
-
-1710510980 c:\users\rodrigo\desktop\ed\coordenadas\include\coordenada.h
-
-1710511307 source:c:\users\rodrigo\desktop\ed\coordenadas\src\coordenada.cpp
-	"Coordenada.h"
-	<stdlib.h>
-	<math.h>
-
-1710512480 source:d:\exemplosed-2024.1\coordenadas\src\circulo.cpp
-	"Circulo.h"
-	<stdlib.h>
-	<math.h>
-
-1710512476 d:\exemplosed-2024.1\coordenadas\include\circulo.h
-	"Coordenada.h"
-
-1710510980 d:\exemplosed-2024.1\coordenadas\include\coordenada.h
-
-1710511308 source:d:\exemplosed-2024.1\coordenadas\src\coordenada.cpp
 	"Coordenada.h"
 	<stdlib.h>
 	<math.h>

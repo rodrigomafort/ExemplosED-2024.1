@@ -10,6 +10,8 @@ class Triangulo : public Poligono
         Triangulo();
         virtual ~Triangulo();
 
+        virtual void Desenhar();
+
     protected:
 
     private:

@@ -12,13 +12,14 @@ class Coordenada
         float calcularDistancia(Coordenada outra);
         float calcularDistancia(float x_outra, float y_outra);
 
-        float x;
-        float y;
+        float getX();
+        float getY();
 
     protected:
 
     private:
-
+        float x;
+        float y;
 };
 
 #endif // COORDENADA_H

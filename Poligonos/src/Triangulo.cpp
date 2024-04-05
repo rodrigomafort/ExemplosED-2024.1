@@ -1,4 +1,7 @@
 #include "Triangulo.h"
+#include <iostream>
+
+using namespace std;
 
 Triangulo::Triangulo()
 {
@@ -8,4 +11,9 @@ Triangulo::Triangulo()
 Triangulo::~Triangulo()
 {
     //dtor
+}
+
+void Triangulo::Desenhar()
+{
+    cout << "Sou um triangulo" << endl;
 }

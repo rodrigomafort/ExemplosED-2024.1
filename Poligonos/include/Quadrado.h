@@ -10,7 +10,7 @@ class Quadrado : public Poligono
         Quadrado();
         virtual ~Quadrado();
 
-        virtual void Desenhar();
+        void Desenhar();
 
     protected:
 

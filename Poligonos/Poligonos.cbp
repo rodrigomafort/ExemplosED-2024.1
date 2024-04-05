@@ -7,8 +7,8 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Poligonos" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/" />
+				<Option output="bin/Debug/Poligonos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -17,8 +17,8 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Poligonos" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/" />
+				<Option output="bin/Release/Poligonos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -33,17 +33,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="include/Circulo.h" />
 		<Unit filename="include/Poligono.h" />
 		<Unit filename="include/Quadrado.h" />
+		<Unit filename="include/Retangulo.h" />
 		<Unit filename="include/Triangulo.h" />
+		<Unit filename="include/TrianguloRetangulo.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Circulo.cpp" />
 		<Unit filename="src/Poligono.cpp" />
 		<Unit filename="src/Quadrado.cpp" />
+		<Unit filename="src/Retangulo.cpp" />
 		<Unit filename="src/Triangulo.cpp" />
-		<Extensions>
-			<lib_finder disable_auto="1" />
-		</Extensions>
+		<Unit filename="src/TrianguloRetangulo.cpp" />
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

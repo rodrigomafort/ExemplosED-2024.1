@@ -22,7 +22,7 @@ Coordenada::Coordenada(float _x, float _y)
 
 float Coordenada::calcularDistancia(Coordenada outra)
 {
-    return calcularDistancia(outra.x, outra.y);
+    return calcularDistancia(outra.getX(), outra.getY());
 }
 
 float Coordenada::calcularDistancia(float x_outra, float y_outra)
@@ -33,3 +33,12 @@ float Coordenada::calcularDistancia(float x_outra, float y_outra)
     return dist;
 }
 
+float Coordenada::getX()
+{
+    return x;
+}
+
+float Coordenada::getY()
+{
+    return y;
+}
