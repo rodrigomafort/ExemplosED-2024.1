@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1712673697 source:c:\users\aluno\desktop\ed\empresa\main.cpp
+	<iostream>
+	<Funcionario.h>
+	<Gerente.h>
+	<Diretor.h>
+	<stdexcept>
+
+1712673708 c:\users\aluno\desktop\ed\empresa\include\funcionario.h
+	<string>
+
+1712673738 source:c:\users\aluno\desktop\ed\empresa\src\funcionario.cpp
+	"Funcionario.h"
+	<stdexcept>
+
+1712673283 source:c:\users\aluno\desktop\ed\empresa\src\gerente.cpp
+	"Gerente.h"
+	<stdexcept>
+
+1712673241 c:\users\aluno\desktop\ed\empresa\include\gerente.h
+	<Funcionario.h>
+
+1712674237 source:c:\users\aluno\desktop\ed\empresa\src\diretor.cpp
+	"Diretor.h"
+	<stdexcept>
+
+1712673797 c:\users\aluno\desktop\ed\empresa\include\diretor.h
+	<Gerente.h>
+
+1712674273 source:c:\users\aluno\desktop\ed\empresa\src\assistente.cpp
+	"Assistente.h"
+	<stdexcept>
+
+1712674243 c:\users\aluno\desktop\ed\empresa\include\assistente.h
+	<Funcionario.h>
+
