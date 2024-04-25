@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1713477644 source:d:\exemplosed-2024.1\listasequenciais\src\item.cpp
+	"Item.h"
+
+1713477634 d:\exemplosed-2024.1\listasequenciais\include\item.h
+
+1713478130 source:d:\exemplosed-2024.1\listasequenciais\src\listasequencial.cpp
+	"ListaSequencial.h"
+
+1713477958 d:\exemplosed-2024.1\listasequenciais\include\listasequencial.h
+	"Item.h"
+
+1713478106 source:d:\exemplosed-2024.1\listasequenciais\main.cpp
+	<iostream>
+	"ListaSequencial.h"
+
